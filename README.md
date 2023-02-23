@@ -3,7 +3,7 @@ Group Project module - Researching the ethical issues of AI
 
 -------------------------------------------
 
-- keep 
+- keep what the child can learn through the robot limited (ie only allow them to learn numbers and shapes)
 
 Total word count:
 
