@@ -23,3 +23,4 @@ links:
 - https://dl.acm.org/doi/10.1145/3547522.3547702 could be useful for harry
 - https://dl.acm.org/doi/10.1145/3371382.3378378
 - https://www.mdpi.com/1660-4601/19/3/1192
+- https://dl.acm.org/doi/10.1145/3078072.3081309
