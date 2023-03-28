@@ -1,5 +1,5 @@
 # Group_Project
-Group Project module - Researching the ethical issues of AI
+Group Project module - Researching the ethical issues of AI with education for children with autism
 
 -------------------------------------------
 
