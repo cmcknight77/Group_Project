@@ -19,6 +19,7 @@ links:
 - https://iopscience.iop.org/article/10.1149/10701.12389ecst/meta
 - https://luxai.com/blog/robot-enhanced-intervention-for-teaching-emotions-to-children-with-autism/
 
-
+------------
 - https://dl.acm.org/doi/10.1145/3547522.3547702 could be useful for harry
+- https://dl.acm.org/doi/10.1145/3371382.3378378
 - https://dl.acm.org/doi/10.1145/3371382.3378378
