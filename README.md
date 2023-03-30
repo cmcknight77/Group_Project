@@ -30,3 +30,6 @@ links:
 - https://www.nature.com/articles/s41539-021-00102-x
 - https://dl.acm.org/doi/10.1145/3078072.3084338
 - https://dl.acm.org/doi/10.1145/3271484
+
+Links for apps to test:
+https://www.techdigest.tv/2022/06/5-cool-and-creative-ai-based-apps-for-kids.html
