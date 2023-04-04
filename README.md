@@ -33,3 +33,5 @@ links:
 
 Links for apps to test:
 https://www.techdigest.tv/2022/06/5-cool-and-creative-ai-based-apps-for-kids.html
+
+https://www.educationalappstore.com/app/category/apps-for-parents
